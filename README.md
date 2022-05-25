@@ -1,8 +1,8 @@
 # nft-collection - NFT Collection Minting dApp
 
-NFT Collection mint that has presale & whitelist feature.
-Project to graduate from learnweb3.io sophomore track.
-Built using Next, ethers, & web3 modal for the frontend and hardhat & solidity for the smart contract
+- NFT Collection mint that has presale & whitelist feature.
+- Project to graduate from learnweb3.io sophomore track.
+- Built using Next, ethers, & web3 modal for the frontend and hardhat & solidity for the smart contract
 
 https://nft-collection-jsauaoa5m-daft2.vercel.app/
 
